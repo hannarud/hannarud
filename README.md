@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Hanna, a Machine Learning Engineer based in Wrocław, Poland! I've been working in Data Analysis since 2014 and doing Machine Learning since 2017. My machine Learning journey started with tabular data analysis and Computer Vision, but now I'm mostly focused on Time Series analysis and forecasting. And, as everyone nowadays, I'm also into LLMs, but I mostly consider myself and advanced user here rather than focusing on training such models.
+
+- 🔭 I’m currently working on time series analysis and forecasting
+- 🌱 I’m currently learning MLOps, and actively applying it in practice (I'm seriously in :heart: with MLFlow!)
+- 👯 I don't look for collaborations and rarely participate in hackathons/activities these days, but always open for an interesting project discussion!
+- 💬 Ask me about your data-related challenges. I love feature engineering and have a lot of ideas about that. I also know what tidy data is in practice, and if you're facing problems with having a clean dataset for your model, I might be able to generate a few valuable ideas!
+
 <!--
 **hannarud/hannarud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
